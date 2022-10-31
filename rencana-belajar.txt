@@ -4,7 +4,7 @@ Rencana Belajar
   *buat web stock barang
   *buat tugas web
 -Belajar JavaScript
--Belajar Python
 -Belajar Laravel 8
   *tugas web
   *membuat working contact
+    >mencari cara agar bisa mengirim pesan langsung masuk ke email
