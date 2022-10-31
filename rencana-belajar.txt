@@ -7,3 +7,4 @@ Rencana Belajar
 -Belajar Python
 -Belajar Laravel 8
   *tugas web
+  *membuat working contact
