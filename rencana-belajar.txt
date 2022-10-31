@@ -4,7 +4,10 @@ Rencana Belajar
   *buat web stock barang
   *buat tugas web
 -Belajar JavaScript
+  *vue
+  *ES6
 -Belajar Python
+  *mengkonekikan ke database
 -Belajar Laravel 8
   *tugas web
   *membuat working contact
