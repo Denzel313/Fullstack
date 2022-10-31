@@ -6,8 +6,7 @@ Rencana Belajar
 -Belajar JavaScript
   *vue
   *ES6
--Belajar Python
-  *mengkonekikan ke database
 -Belajar Laravel 8
   *tugas web
   *membuat working contact
+    >mencari cara agar bisa mengirim pesan langsung masuk ke email
