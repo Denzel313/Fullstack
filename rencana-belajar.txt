@@ -1,0 +1,9 @@
+Rencana Belajar
+
+-Belajar PhP 
+  *buat web stock barang
+  *buat tugas web
+-Belajar JavaScript
+-Belajar Python
+-Belajar Laravel 8
+  *tugas web
