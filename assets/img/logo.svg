@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 148px;fill: #6128a9;font-weight: 400;font-family: "NotoSerifJP-Regular", "Noto Serif JP" } 
+	</style>
+	<text id="Haruka Tomatsu" style="transform: matrix(1.657,0,0,3.016,-30.564,716.389)" >
+		<tspan x="0" y="0" class="t0">H</tspan><tspan  y="0" class="t0">a</tspan><tspan  y="0" class="t0">r</tspan><tspan  y="0" class="t0">u</tspan><tspan  y="0" class="t0">k</tspan><tspan  y="0" class="t0">a</tspan><tspan  y="0" class="t0"> </tspan><tspan  y="0" class="t0">T</tspan><tspan  y="0" class="t0">o</tspan><tspan  y="0" class="t0">m</tspan><tspan  y="0" class="t0">a</tspan><tspan  y="0" class="t0">t</tspan><tspan  y="0" class="t0">s</tspan><tspan  y="0" class="t0">u
+</tspan>
+	</text>
+</svg>
